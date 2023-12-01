@@ -25,7 +25,7 @@ const SearchForm = () => {
 
   return (
     <div className='search-form'>
-      <div className='container'>
+      <div className='container1'>
         <div className='search-form-content'>
           <form className='search-form' onSubmit={handleSubmit}>
             <div className='search-form-elem flex flex-sb bg-white'>

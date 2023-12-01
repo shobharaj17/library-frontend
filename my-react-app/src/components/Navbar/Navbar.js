@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <nav className='navbar' id = "navbar">
-      <div className='container navbar-content flex'>
+      <div className='container navbar-content flex' style={{alignItems: 'start'}}>
         <div className='brand-and-toggler flex flex-sb'>
           <Link to = "/" className='navbar-brand flex'>
             <img src = {logoImg} alt = "site logo" />

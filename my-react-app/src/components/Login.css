@@ -1,29 +1,28 @@
-.login-container {
-    max-width: 300px;
-    max-height: 300px;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #e51f1f;
-    border-radius: 20px;
-    background-color:lightblue
-   
+.container2 {
+  max-width: 300px;
+  max-height: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #e51f1f;
+  border-radius: 20px;
+  background-color:lightblue
+ 
 }
-  
-  .input-group {
-    margin-bottom: 20px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-  }
-  
-  .login-button:hover {
-    background-color: #0056b3;
-  }
-  
-  .login-form .error-message {
-    color: red;
-    margin-bottom: 15px;
-  }
-  
+
+.input-field {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.login-form .error-message {
+  color: red;
+  margin-bottom: 15px;
+}
